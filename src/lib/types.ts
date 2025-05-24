@@ -5,11 +5,13 @@ export interface Classmate {
   email: string;
   photoUrl: string;
   photoAiHint: string; // Max 2 words
-  bio: string; 
+  bio: string;
   fullDescription: string;
   linkedinUrl: string;
   githubUrl: string;
-  cvFileName: string; // Stores only the filename, e.g., "john_doe_cv.pdf"
+  cvFileName: string; // Original filename from JSON, kept for reference
+  cvAvailable: boolean; // True if a CV (considering language and fallback) exists
+  actualCvPath: string; // The actual URL path to the CV file
   interests: string[];
 }
 
