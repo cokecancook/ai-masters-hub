@@ -2,7 +2,7 @@
   {
     "id": "coke-stuyck",
     "name": "Coke Stuyck",
-    "email": "coke.stuyck@example.com",
+    "email": "coke.stuyck@gmail.com",
     "photoFileName": "images/students/coke-stuyck.jpg",
     "photoAiHint": "portrait student",
     "bio": "Desarrollo Frontend y Diseño UX/UI | Ciencia de Datos e IA Generativa",
@@ -18,12 +18,12 @@
     "email": "g.lopezblanquer@gmail.com",
     "photoFileName": "images/students/gonzalo-lopez.jpg",
     "photoAiHint": "portrait student",
-    "bio": "Estudiante de Máster de IA",
-    "fullDescription": "Estudiante de Máster en IA en EDEM. Con una comprensión fundamental de los principios de la IA, ampliando conocimientos en áreas como algoritmos de aprendizaje automático, aprendizaje profundo y análisis de datos. Dedicado a aplicar soluciones de IA a desafíos del mundo real.",
+    "bio": "Aprendizaje Automático | IA Generativa | CDL | ADE",
+    "fullDescription": "Graduado en Administración y Dirección de Empresas con Máster en Inteligencia Artificial. Me gusta obtener patrones de los datos para sacarle la máxima productividad al negocio. Especialidad en Machine Learning e IA Generativa (LLM, fine-tunning, RAG, agentes, chatbots). Certificado en Google Cloud (Digital Leader).",
     "linkedinUrl": "https://www.linkedin.com/in/gonzalolopezblanquer/",
     "githubUrl": "https://github.com/Gonzalo22112001",
     "cvFileName": "gonzalo-lopez-resume.pdf",
-    "interests": ["IA", "Aprendizaje Automático", "Aprendizaje Profundo"]
+    "interests": ["IA Generativa", "Aprendizaje Automático", "Google Cloud", "ADE"]
   },
   {
     "id": "jorge-molto",
@@ -41,7 +41,7 @@
   {
     "id": "andreu-picornell",
     "name": "Andreu Picornell",
-    "email": "andreu.picornell@example.com",
+    "email": "",
     "photoFileName": "images/students/andreu-picornell.jpg",
     "photoAiHint": "portrait student",
     "bio": "Ingeniero de Software I+D en Power Electronics",
@@ -49,12 +49,12 @@
     "linkedinUrl": "https://www.linkedin.com/in/andreu-boigues/",
     "githubUrl": "https://github.com/anpiboi",
     "cvFileName": "andreu-picornell-resume.pdf",
-    "interests": ["Ingeniería de Software", "IA", "I+D", "Power Electronics"]
+    "interests": ["Ingeniería de Software", "I+D", "Power Electronics"]
   },
   {
     "id": "pau-jorques",
     "name": "Pau Jorques",
-    "email": "pau.jorques@example.com",
+    "email": "",
     "photoFileName": "images/students/pau-jorques.jpg",
     "photoAiHint": "portrait student",
     "bio": "Estudiante del Grado en Matemática Computacionales y Máster en IA",
@@ -62,7 +62,7 @@
     "linkedinUrl": "https://www.linkedin.com/in/pau-jorques-brisach-4b13202a1/",
     "githubUrl": "https://github.com/paujorques02",
     "cvFileName": "pau-jorques-resume.pdf",
-    "interests": ["Matemáticas Computacionales", "IA", "Algoritmos", "Modelado"]
+    "interests": ["Matemáticas Computacionales", "Algoritmos", "Modelado"]
   },
   {
     "id": "jairo-navarro",
@@ -70,17 +70,17 @@
     "email": "janavarrobp@gmail.com",
     "photoFileName": "images/students/jairo-navarro.jpg",
     "photoAiHint": "portrait student",
-    "bio": "Estudiante de Máster de IA",
-    "fullDescription": "Jairo Navarro es un estudiante de IA. Jairo está aprendiendo y explorando activamente varias facetas de la IA, incluyendo el aprendizaje automático, las redes neuronales y el procesamiento de datos. Ansioso por aplicar los conocimientos teóricos al desarrollo práctico de la IA.",
+    "bio": "Ciencia de Datos | IA Generativa, Chatbots & RAG | Predicción & Automatización de Procesos",
+    "fullDescription": "Data Scientist orientado a proyectos de IA generativa, RAG y análisis predictivo. Apasionado por la inteligencia artificial aplicada y la resolución de problemas complejos mediante tecnología. He desarrollado proyectos prácticos que integran modelos de lenguaje (LLMs), Web Scraping, Machine Learning y herramientas de visualización de datos. Mi experiencia previa en gestión de talento me ha permitido entender el negocio desde una perspectiva estratégica, que se combinan al aplicar mis conocimientos técnicos —Python, SQL, Looker Studio, IA generativa, redes neuronales y clustering— para crear soluciones de impacto.",
     "linkedinUrl": "https://www.linkedin.com/in/jairo-navarro-9b65b1170/",
     "githubUrl": "https://github.com/janavarrob04",
     "cvFileName": "jairo-navarro-resume.pdf",
-    "interests": ["IA", "Aprendizaje Automático", "Redes Neuronales"]
+    "interests": ["Aprendizaje Automático", "Aprendizaje Profundo", "Ciencia de Datos"]
   },
   {
     "id": "mauro-balaguer",
     "name": "Mauro Balaguer",
-    "email": "mauro.balaguer@example.com",
+    "email": "",
     "photoFileName": "images/students/mauro-balaguer.jpg",
     "photoAiHint": "portrait student",
     "bio": "Estudiante de Máster de IA | ADE",
@@ -88,7 +88,7 @@
     "linkedinUrl": "https://www.linkedin.com/in/mauro-balaguer/",
     "githubUrl": "https://github.com/Maurobalas",
     "cvFileName": "mauro-balaguer-resume.pdf",
-    "interests": ["IA", "Administración de Empresas", "Desarrollo Estratégico"]
+    "interests": ["Administración de Empresas", "Desarrollo Estratégico"]
   },
   {
     "id": "nacho-martinez",
@@ -96,17 +96,17 @@
     "email": "nachomartnezserrano@gmail.com",
     "photoFileName": "images/students/nacho-martinez.jpg",
     "photoAiHint": "portrait student",
-    "bio": "Estudiante de Máster de IA",
+    "bio": "Ciencia de Datos, Aprendizaje Automático & IA | ADE",
     "fullDescription": "Nacho Martínez es estudiante de Máster en IA (MIA) en EDEM. Nacho posee sólidas habilidades técnicas en Python, SQL, Git/Github y Docker, esenciales para los flujos de trabajo modernos de IA y ciencia de datos. Ansioso por contribuir a proyectos que requieran una sólida gestión de datos y una implementación inteligente de sistemas.",
     "linkedinUrl": "https://www.linkedin.com/in/nacho-mrtz7/",
     "githubUrl": "https://github.com/Namase7",
     "cvFileName": "nacho-martinez-resume.pdf",
-    "interests": ["IA", "Python", "SQL", "Docker", "Github"]
+    "interests": ["Python", "SQL", "Docker", "Github"]
   },
   {
     "id": "alejandro-veintimilla",
     "name": "Alejandro Veintimilla",
-    "email": "alejandro.veintimilla@example.com",
+    "email": "",
     "photoFileName": "images/students/alejandro-veintimilla.jpg",
     "photoAiHint": "portrait student",
     "bio": "Estudiante de Máster de IA",
@@ -119,7 +119,7 @@
   {
     "id": "alberto-garcia",
     "name": "Alberto García",
-    "email": "alberto.garcia@example.com",
+    "email": "",
     "photoFileName": "images/students/alberto-garcia.jpg",
     "photoAiHint": "portrait student",
     "bio": "Ingeniero Industrial | IA y Machine Learning | Ciencia de Datos",
@@ -127,12 +127,12 @@
     "linkedinUrl": "https://www.linkedin.com/in/alberto-garcia-miras/",
     "githubUrl": "https://github.com/agarmir",
     "cvFileName": "alberto-garcia-resume.pdf",
-    "interests": ["Ingeniería Industrial", "IA", "Aprendizaje Automático", "Ciencia de Datos"]
+    "interests": ["Ingeniería Industrial", "Aprendizaje Automático", "Ciencia de Datos"]
   },
   {
     "id": "carlos-portilla",
     "name": "Carlos Portilla",
-    "email": "carlos.portilla@example.com",
+    "email": "",
     "photoFileName": "images/students/carlos-portilla.jpg",
     "photoAiHint": "portrait student",
     "bio": "Científico de Datos",
@@ -153,12 +153,12 @@
     "linkedinUrl": "https://www.linkedin.com/in/eduardo-abad-zabala/",
     "githubUrl": "https://github.com/eabadz",
     "cvFileName": "eduardo-abad-resume.pdf",
-    "interests": ["Organización Industrial", "IA", "Optimización de Procesos", "Toma de Decisiones"]
+    "interests": ["Organización Industrial", "Optimización de Procesos", "Toma de Decisiones"]
   },
   {
     "id": "jaime-olano",
     "name": "Jaime Olano",
-    "email": "jaime.olano@example.com",
+    "email": "",
     "photoFileName": "images/students/jaime-olano.jpg",
     "photoAiHint": "portrait student",
     "bio": "Analista de marketing en Sydney Media",
@@ -171,7 +171,7 @@
   {
     "id": "jose-barbero",
     "name": "Jose Barbero",
-    "email": "jose.barbero@example.com",
+    "email": "",
     "photoFileName": "images/students/jose-barbero.jpg",
     "photoAiHint": "portrait student",
     "bio": "Ingeniero en Gestión Empresarial y MBA | Logística & Administración.",
@@ -184,14 +184,14 @@
   {
     "id": "pablo-esteban",
     "name": "Pablo Esteban",
-    "email": "pablo.esteban@example.com",
+    "email": "",
     "photoFileName": "images/students/pablo-esteban.jpg",
     "photoAiHint": "portrait student",
-    "bio": "Ingeniero de Telecomunicaciones | IA | Backend | Django | Devops",
+    "bio": "Ingeniero de Telecomunicaciones | Backend | Django | Devops",
     "fullDescription": "Pablo Esteban es Ingeniero de Telecomunicaciones con experiencia en IA, desarrollo Backend, Django y DevOps. Pablo es experto en la construcción de sistemas robustos y escalables, la integración de IA y la optimización de los procesos de desarrollo e implementación. Comprometido con la creación de soluciones de software inteligentes y de alto rendimiento.",
     "linkedinUrl": "https://www.linkedin.com/in/pabloestebanblasco/",
     "githubUrl": "https://github.com/B1oko",
     "cvFileName": "pablo-esteban-resume.pdf",
-    "interests": ["Ingeniería de Telecomunicaciones", "IA", "Desarrollo Backend", "Django", "DevOps"]
+    "interests": ["Telecomunicaciones", "Desarrollo Backend", "Django", "DevOps"]
   }
 ]
