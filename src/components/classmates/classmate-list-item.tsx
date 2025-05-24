@@ -7,7 +7,6 @@ import Link from 'next/link';
 import { Button } from '@/components/ui/button';
 import { Mail, Linkedin, Github, FileText, UserCircle2 } from 'lucide-react';
 import { Card } from '@/components/ui/card';
-import { Badge } from '@/components/ui/badge';
 import { useLanguage } from '@/contexts/language-context';
 
 interface ClassmateListItemProps {
@@ -15,9 +14,7 @@ interface ClassmateListItemProps {
 }
 
 export function ClassmateListItem({ classmate }: ClassmateListItemProps) {
-  const { language, t } = useLanguage();
-  const actualCvUrl = classmate.cvFileName ? `/resumes/${language}/${classmate.cvFileName}` : '#';
-
+  const { t } = useLanguage();
   const displayBio = classmate.bio?.endsWith('.') ? classmate.bio.slice(0, -1) : classmate.bio;
 
   return (
@@ -47,19 +44,6 @@ export function ClassmateListItem({ classmate }: ClassmateListItemProps) {
           <Link href={`/classmates/${classmate.id}`} aria-label={`${t('viewProfile')} ${classmate.name}`}>
             <p className="text-sm text-foreground line-clamp-2 mt-1 group-hover:text-foreground/80 transition-colors">{displayBio}</p>
           </Link>
-          {classmate.interests && classmate.interests.length > 0 && (
-            <div className="mt-2 flex flex-wrap gap-2">
-              {classmate.interests.map((interest) => (
-                <Badge
-                  key={interest}
-                  variant="secondary"
-                  className="px-2 py-0.5 text-xs bg-accent/10 text-accent border-accent/30 hover:bg-accent/20 transition-colors"
-                >
-                  {interest}
-                </Badge>
-              ))}
-            </div>
-          )}
         </div>
 
         <div className="flex flex-wrap items-center justify-start gap-2 w-full mt-3 md:mt-0 md:w-auto md:justify-end md:shrink-0">
@@ -80,9 +64,9 @@ export function ClassmateListItem({ classmate }: ClassmateListItemProps) {
               <Github size={16} />
             </a>
           </Button>
-          {classmate.cvFileName && (
+          {classmate.cvAvailable && (
             <Button variant="outline" size="icon" asChild className="h-8 w-8 border-border hover:border-accent hover:bg-accent/10 text-muted-foreground hover:text-accent transition-colors">
-              <a href={actualCvUrl} target="_blank" rel="noopener noreferrer" aria-label={t('classmateCV', { name: classmate.name })}>
+              <a href={classmate.actualCvPath} target="_blank" rel="noopener noreferrer" aria-label={t('classmateCV', { name: classmate.name })}>
                 <FileText size={16} />
               </a>
             </Button>
