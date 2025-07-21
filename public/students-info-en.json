@@ -91,32 +91,6 @@
     "interests": ["Business Administration", "Strategic Development"]
   },
   {
-    "id": "nacho-martinez",
-    "name": "Nacho Martínez",
-    "email": "nachomartnezserrano@gmail.com",
-    "photoFileName": "images/students/nacho-martinez.jpg",
-    "photoAiHint": "portrait student",
-    "bio": "Data Science, Machine Learning & AI | BA",
-    "fullDescription": "Nacho Martínez is a Master's student in AI (MIA) at EDEM. Nacho possesses strong technical skills in Python, SQL, Git/Github, and Docker, essential for modern AI and data science workflows. Eager to contribute to projects requiring robust data handling and intelligent system deployment.",
-    "linkedinUrl": "https://www.linkedin.com/in/nacho-mrtz7/",
-    "githubUrl": "https://github.com/Namase7",
-    "cvFileName": "nacho-martinez-resume.pdf",
-    "interests": ["Python", "SQL", "Docker", "Github"]
-  },
-  {
-    "id": "alejandro-veintimilla",
-    "name": "Alejandro Veintimilla",
-    "email": "",
-    "photoFileName": "images/students/alejandro-veintimilla.jpg",
-    "photoAiHint": "portrait student",
-    "bio": "Master's student in AI",
-    "fullDescription": "Alejandro Veintimilla is a student at Universidad Europea. Alejandro is actively engaged in studies, focusing on acquiring knowledge and skills relevant to future professional endeavors. Motivated to learn and grow in a dynamic academic environment.",
-    "linkedinUrl": "https://www.linkedin.com/in/alejandro-veintimilla-jim%C3%A9nez-a8626a239/",
-    "githubUrl": "https://github.com/VeintimillAlejandro",
-    "cvFileName": "alejandro-veintimilla-resume.pdf",
-    "interests": ["Technology", "Learning", "Innovation"]
-  },
-  {
     "id": "alberto-garcia",
     "name": "Alberto García",
     "email": "",
@@ -154,32 +128,6 @@
     "githubUrl": "https://github.com/eabadz",
     "cvFileName": "eduardo-abad-resume.pdf",
     "interests": ["Industrial Organization", "Process Optimization", "Decision Making"]
-  },
-  {
-    "id": "jaime-olano",
-    "name": "Jaime Olano",
-    "email": "",
-    "photoFileName": "images/students/jaime-olano.jpg",
-    "photoAiHint": "portrait student",
-    "bio": "Marketing Analyst at Sydney Media",
-    "fullDescription": "Jaime Olano is a Marketing Analyst at Sydney Media. Jaime specializes in analyzing market trends, consumer behavior, and campaign performance to drive effective marketing strategies. Committed to leveraging data to optimize marketing outcomes and achieve business goals.",
-    "linkedinUrl": "https://www.linkedin.com/in/jaime-olano-lopez-9a2199270/",
-    "githubUrl": "https://github.com/jaimeolanolopez",
-    "cvFileName": "jaime-olano-resume.pdf",
-    "interests": ["Marketing Analysis", "Market Research", "Consumer Behavior", "Campaign Optimization"]
-  },
-  {
-    "id": "jose-barbero",
-    "name": "Jose Barbero",
-    "email": "",
-    "photoFileName": "images/students/jose-barbero.jpg",
-    "photoAiHint": "portrait student",
-    "bio": "Engineer in Business Management and MBA | Logistics & Administration",
-    "fullDescription": "Jose Barbero is an Engineer in Business Management with an MBA, bringing extensive experience in Logistics and Administration. Jose combines strong managerial skills with practical operational knowledge, aiming to optimize business processes and enhance organizational efficiency. Dedicated to strategic planning and effective resource management.",
-    "linkedinUrl": "https://www.linkedin.com/in/jose-barbero-bru-7168a3214/",
-    "githubUrl": "https://github.com/Jobarbru",
-    "cvFileName": "jose-barbero-resume.pdf",
-    "interests": ["Business Management", "Logistics", "Administration", "MBA", "Strategic Planning"]
   },
   {
     "id": "pablo-esteban",

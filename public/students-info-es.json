@@ -91,32 +91,6 @@
     "interests": ["Administración de Empresas", "Desarrollo Estratégico"]
   },
   {
-    "id": "nacho-martinez",
-    "name": "Nacho Martínez",
-    "email": "nachomartnezserrano@gmail.com",
-    "photoFileName": "images/students/nacho-martinez.jpg",
-    "photoAiHint": "portrait student",
-    "bio": "Ciencia de Datos, Aprendizaje Automático & IA | ADE",
-    "fullDescription": "Nacho Martínez es estudiante de Máster en IA (MIA) en EDEM. Nacho posee sólidas habilidades técnicas en Python, SQL, Git/Github y Docker, esenciales para los flujos de trabajo modernos de IA y ciencia de datos. Ansioso por contribuir a proyectos que requieran una sólida gestión de datos y una implementación inteligente de sistemas.",
-    "linkedinUrl": "https://www.linkedin.com/in/nacho-mrtz7/",
-    "githubUrl": "https://github.com/Namase7",
-    "cvFileName": "nacho-martinez-resume.pdf",
-    "interests": ["Python", "SQL", "Docker", "Github"]
-  },
-  {
-    "id": "alejandro-veintimilla",
-    "name": "Alejandro Veintimilla",
-    "email": "",
-    "photoFileName": "images/students/alejandro-veintimilla.jpg",
-    "photoAiHint": "portrait student",
-    "bio": "Estudiante de Máster de IA",
-    "fullDescription": "Alejandro Veintimilla es estudiante en la Universidad Europea. Alejandro participa activamente en sus estudios, centrándose en la adquisición de conocimientos y habilidades relevantes para futuras empresas profesionales. Motivado para aprender y crecer en un entorno académico dinámico.",
-    "linkedinUrl": "https://www.linkedin.com/in/alejandro-veintimilla-jim%C3%A9nez-a8626a239/",
-    "githubUrl": "https://github.com/VeintimillAlejandro",
-    "cvFileName": "alejandro-veintimilla-resume.pdf",
-    "interests": ["Tecnología", "Aprendizaje", "Innovación"]
-  },
-  {
     "id": "alberto-garcia",
     "name": "Alberto García",
     "email": "",
@@ -154,32 +128,6 @@
     "githubUrl": "https://github.com/eabadz",
     "cvFileName": "eduardo-abad-resume.pdf",
     "interests": ["Organización Industrial", "Optimización de Procesos", "Toma de Decisiones"]
-  },
-  {
-    "id": "jaime-olano",
-    "name": "Jaime Olano",
-    "email": "",
-    "photoFileName": "images/students/jaime-olano.jpg",
-    "photoAiHint": "portrait student",
-    "bio": "Analista de marketing en Sydney Media",
-    "fullDescription": "Jaime Olano es Analista de Marketing en Sydney Media. Jaime se especializa en analizar tendencias de mercado, comportamiento del consumidor y rendimiento de campañas para impulsar estrategias de marketing efectivas. Comprometido a aprovechar los datos para optimizar los resultados de marketing y alcanzar los objetivos comerciales.",
-    "linkedinUrl": "https://www.linkedin.com/in/jaime-olano-lopez-9a2199270/",
-    "githubUrl": "https://github.com/jaimeolanolopez",
-    "cvFileName": "jaime-olano-resume.pdf",
-    "interests": ["Análisis de Marketing", "Investigación de Mercado", "Comportamiento del Consumidor", "Optimización de Campañas"]
-  },
-  {
-    "id": "jose-barbero",
-    "name": "Jose Barbero",
-    "email": "",
-    "photoFileName": "images/students/jose-barbero.jpg",
-    "photoAiHint": "portrait student",
-    "bio": "Ingeniero en Gestión Empresarial y MBA | Logística & Administración.",
-    "fullDescription": "José Barbero es Ingeniero en Gestión Empresarial con un MBA, aportando una amplia experiencia en Logística y Administración. José combina sólidas habilidades gerenciales con conocimientos operativos prácticos, con el objetivo de optimizar los procesos comerciales y mejorar la eficiencia organizacional. Dedicado a la planificación estratégica y la gestión eficaz de recursos.",
-    "linkedinUrl": "https://www.linkedin.com/in/jose-barbero-bru-7168a3214/",
-    "githubUrl": "https://github.com/Jobarbru",
-    "cvFileName": "jose-barbero-resume.pdf",
-    "interests": ["Gestión Empresarial", "Logística", "Administración", "MBA", "Planificación Estratégica"]
   },
   {
     "id": "pablo-esteban",
