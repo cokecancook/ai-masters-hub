@@ -1,5 +1,7 @@
 # AI Master's Hub
 
+AI Master's Hub is a site designed to showcase the profiles, skills, and interests of some graduate students in the AI Master's program from EDEM 2024-2025. The platform allows recruiters to explore classmates, view detailed profiles, filter by interests, and access resumes and contact information.
+
 Disclaimer: Vibe-coded template built with Firebase Studio.
 
 A modern web application built with Next.js and TypeScript, featuring a beautiful UI powered by Tailwind CSS and Radix UI components.
