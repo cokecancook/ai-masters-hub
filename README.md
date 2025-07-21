@@ -1,5 +1,7 @@
 # AI Master's Hub
 
+Disclaimer: Vibe-coded template built with Firebase Studio.
+
 A modern web application built with Next.js and TypeScript, featuring a beautiful UI powered by Tailwind CSS and Radix UI components.
 
 ## 🚀 Features
